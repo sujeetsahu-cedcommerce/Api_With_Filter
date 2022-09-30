@@ -1,0 +1,20 @@
+.upperContainer {
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftUpperContainer {
+  /* border: 1px solid black; */
+  width: 40vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.spinner {
+  display: grid;
+  place-items: center;
+  width: 100vw;
+}
+
+
